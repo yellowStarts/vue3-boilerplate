@@ -1,6 +1,6 @@
 # vue3-boilerplate
 
-我的 vue3 启动包(Vite, Pinia, Vue Router, Tailwind CSS)。
+Vue3 项目启动样板(Vite, Pinia, Vue Router, Tailwind CSS)。
 
 ## 推荐IDE设置
 
@@ -27,6 +27,8 @@
 ## 项目启动
 
 ```sh
+git clone https://github.com/yellowStarts/vue3-boilerplate.git your-project-name
+cd your-projec-tname
 npm install
 ```
 
